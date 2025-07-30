@@ -1,8 +1,6 @@
+<img width="2021" height="792" alt="aaai" src="https://github.com/user-attachments/assets/72514424-7b94-46e4-9682-f0de24608ba1" />
+
 # Outlier Interpretation
-
-![Uploading aaai.png…]()
-
-
 This repository contains the source code for the paper **Density-Aware Hypergraph Networks for Industrial Outlier Interpretation**.
 
 Note that this task is also referred to as outlier explanation, outlier aspect mining/discovering, outlier property detection, and outlier description.
