@@ -1,5 +1,6 @@
 # Outlier Interpretation
-[Uploading AAAI.pdf…]()
+
+![Uploading aaai.png…]()
 
 
 This repository contains the source code for the paper **Density-Aware Hypergraph Networks for Industrial Outlier Interpretation**.
